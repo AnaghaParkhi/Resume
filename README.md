@@ -3,13 +3,20 @@
  
 ### Hi, 👋 I'm Anagha Parkhi 
 👨‍💻 Data Analyst | SQL • Power BI • Azure • Python | Transforming Data into Business Decisions | Open to Remote Work 🌍  <br>
-</div> 
-
+</div>
+<div align="center">
+ 
+ ## 🌐 Connect With Me
+   
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23F9D72C.svg?style=for-the-badge&logo=Portfolio&logoColor=black&logoSize=auto)
+![Tableau](https://img.shields.io/badge/Tableau-%23006BFF.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+</div>
  <!--
 ### 🔭 Currently Working On
 - Learning  AI & ML | Building projects in Python
 -->
----
+
 ## 💼 Projects 
 Here are some projects you’ve worked on:  
   1) **<a href="https://github.com/AnaghaParkhi/churn_analysis">Customer Churn Analysis</a>** (Excel,Power BI,DAX)   
@@ -17,7 +24,7 @@ Here are some projects you’ve worked on:
   3) **<a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard</a>** (Excel,Tableau)  
   4) **<a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis </a>** (Excel,Tableau)
 
----
+
 ## ✅ What I Can Do  
   🔹 Clean and transform raw datasets using Python and Excel.  
   🔹 Write SQL queries to extract, clean, and analyze data from multiple sources.  
@@ -46,16 +53,8 @@ Here are some projects you’ve worked on:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey?style=for-the-badge)
 
-⭐ Always learning and exploring new ways to turn data into impactful decisions.
+⭐ Always learning and exploring new ways to turn data into impactful decisions. 
 
-<div align="center">
- 
- ## 🌐 Connect With Me
-   
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23F9D72C.svg?style=for-the-badge&logo=Portfolio&logoColor=black&logoSize=auto)
-![Tableau](https://img.shields.io/badge/Tableau-%23006BFF.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-</div>
 
 <div align="center">
  
